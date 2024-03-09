@@ -1,0 +1,8 @@
+subjects:
+	-color mappings
+	-blending and pasting images
+	-thresholding
+	-blurring and smoothing
+	-morphological operators
+	-gradients
+	-histograms

@@ -1,0 +1,5 @@
+subjects:
+	-opening file
+	-drawing on images
+	-direct drawing on images with a mouse
+	
