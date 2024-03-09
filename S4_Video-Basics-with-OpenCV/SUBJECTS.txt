@@ -1,0 +1,4 @@
+subjects:
+	-connecting to camera
+	-using video files
+	-drawing on live camera
