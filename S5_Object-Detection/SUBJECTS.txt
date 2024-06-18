@@ -1,0 +1,10 @@
+subjects:
+	-Template Matching
+	-Corner Detection -> Harris Corner
+	-Corner Detection -> Shi-Tomasi
+	-Edge Detection
+	-Grid Detection
+	-Contour Detection
+	-Feature Matchimg
+	-Watershed Algorithm
+	-Face Detection
