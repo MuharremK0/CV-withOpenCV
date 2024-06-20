@@ -1,0 +1,6 @@
+subjects:
+	-Introduction to Object Tracking
+	-Optical Flow
+	-Mean Shift
+	-Cam Shift
+	-various APIs
